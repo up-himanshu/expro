@@ -1,0 +1,28 @@
+{
+  "name": "expro",
+  "version": "1.0.0",
+  "description": "test express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "ep"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/up-himanshu/expro.git"
+  },
+  "keywords": [
+    "expro"
+  ],
+  "author": "Himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/up-himanshu/expro/issues"
+  },
+  "homepage": "https://github.com/up-himanshu/expro#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.18.11"
+  }
+}
